@@ -152,17 +152,17 @@ Schauen wir uns die Daten im Detail an:
 
 | **Schlüssel (Key)** | **Wert (Value)** | **Beschreibung** |
 | --- | --- | --- |
-| emergency | Fire\_hydrant | beschreibt in OSM einen Hydranten |
-| Water\_source | main | beschreibt, dass die Wasserherkunft das Hauptleitungsnetz ist. |
+| emergency | fire\_hydrant | beschreibt in OSM einen Hydranten |
+| water\_source | main | beschreibt, dass die Wasserherkunft das Hauptleitungsnetz ist. |
 | ref | 778 | beschreibt den Referenzcode des Hydranten |
-| Fire\_hydrant:type | pillar | beschreibt einen Überflurhydranten |
-| colour | Lemon-green | Farbe des Hydranten |
+| fire\_hydrant:type | pillar | beschreibt einen Überflurhydranten |
+| colour | lemon-green | Farbe des Hydranten |
 | couplings | 2 | beschreibt wie viele Kupplungen der Hydrant hat |
-| Survey:date | 04.02.2018 | letzte Inspektion des Hydranten |
-| Fire\_hydrant:pressure | 6 | beschreibt den Druck in bar des Hydranten |
-| Fire\_hydrant:position | Sperrfläche Parkplatz | beschreibt wo der Hydrant positioniert ist |
+| survey:date | 04.02.2018 | letzte Inspektion des Hydranten |
+| fire\_hydrant:pressure | 6 | beschreibt den Druck in bar des Hydranten |
+| fire\_hydrant:position | Sperrfläche Parkplatz | beschreibt wo der Hydrant positioniert ist |
 | manufacturer | vonRoll | Hersteller des Hydranten |
-| Fire\_hydrant:diamet | 100 | Durchmesser des Hydranten |
+| fire\_hydrant:diameter | 100 | Durchmesser des Hydranten |
 
 Es können natürlich noch viel mehr Werte mitgegeben werden, siehe auch im [Wiki](https://wiki.openstreetmap.org/wiki/DE:Tag:emergency=fire_hydrant) Artikel.
 
