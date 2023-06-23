@@ -283,7 +283,4 @@ Dieses Werk von Christian Nüssli ist lizenziert unter einer [CC0 1.0 Universell
 ## Kontakt
 
 **Christian Nüssli**
-Schutz und Rettung Zürich 
-Applikationsverantwortlicher ELZ
-044 411 22 85
-[christian.nuessli@zuerich.ch](mailto:christian.nuessli@zuerich.ch)
+[chrigi@chnuessli.ch](mailto:chrigi@chnuessli.ch)
