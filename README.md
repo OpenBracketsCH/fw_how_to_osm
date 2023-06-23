@@ -226,12 +226,12 @@ Auch hier sind das lokale Wissen und die Vernetzung der Feuerwehr zu lokalen Beh
 | **Schlüssel (Key)** | **Wert (Value)** | **Beschreibung** |
 | --- | --- | --- |
 | emergency | defibrillator | beschreibt in OSM einen Defibrillator. |
-| Defibrillator:location | Beschreibung wo der Defi hängt. | Genaue Beschreibung wo der Defi hängt. |
-| Opening\_hours | 24/7 oder effektive Öffnungszeiten. Falls nicht klar, weglassen | Öffnungszeiten des Defibrillator, wann dieser erreicht werden kann. |
-| Description | Beschreibung | Zusätzliche Bemerkung zum Defi / Spezielles |
-| Phone | 144 | Notrufnummer oder Nummer des Betreibers |
-| Emergency:phone | 144 (zwingend) | Zwingend Notrufnummer |
-| Access | Yes/no/private | Zugang gegeben |
+| defibrillator:location | Beschreibung wo der Defi hängt. | Genaue Beschreibung wo der Defi hängt. |
+| opening\_hours | 24/7 oder effektive Öffnungszeiten. Falls nicht klar, weglassen | Öffnungszeiten des Defibrillator, wann dieser erreicht werden kann. |
+| description | Beschreibung | Zusätzliche Bemerkung zum Defi / Spezielles |
+| phone | 144 | Notrufnummer oder Nummer des Betreibers |
+| emergency:phone | 144 (zwingend) | Zwingend Notrufnummer |
+| access | Yes/no/private | Zugang gegeben |
 
 # Grundsätze von OSM
 
