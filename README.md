@@ -194,7 +194,8 @@ Was du nun erfasst, ist ganz dir überlassen. Du kannst alles was einsatzrelevan
 
 <img src="img/map9.png" height="450px">
 
-Der Name der Feuerstelle ist offiziell Schlangenbrunnen, der umgangssprachliche Name ist aber Schlangenbrünneli. Wenn man dies nun als loc\_name einträgt in OSMN, wird die ELZ danach suchen können.
+Der Name der Feuerstelle ist offiziell Schlangenbrunnen, der umgangssprachliche Name ist aber Schlangenbrünneli.
+Wenn dieser umgangssprachlicke Name als loc\_name in OpenStreetMap eingetragen wird, kann die ELZ danach suchen.
 
 <img src="img/map10.png" height="450px">
 
