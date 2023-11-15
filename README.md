@@ -278,10 +278,11 @@ How to map: [https://wiki.openstreetmap.org/wiki/DE:How\_to\_map\_a](https://wik
 
 <img src="img/symbol4.png" height="25px">
 
-Dieses Werk von Christian Nüssli ist lizenziert unter einer [CC0 1.0 Universell (CC0 1.0)Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Somit kann dieses Werk kopiert und unter Nennung des Autors verändert und vervielfältigt werden.
+Dieses Werk von Christian Nüssli von OpenBrackets.ch ist lizenziert unter einer [CC0 1.0 Universell (CC0 1.0)Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Somit kann dieses Werk kopiert und unter Nennung des Autors verändert und vervielfältigt werden.
 
 ## Kontakt
 
-**Christian Nüssli**
+**Openbrackets.ch**
+Christian Nüssli
 
-[chrigi@chnuessli.ch](mailto:chrigi@chnuessli.ch)
+[hello@openbrackets.ch](mailto:hello@openbrackets.ch)
