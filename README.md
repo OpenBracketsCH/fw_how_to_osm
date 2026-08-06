@@ -1,6 +1,6 @@
 # Anleitung OpenStreetMap (OSM) für Feuerwehren
 
-<img src="img/osm_logo.png" height="450px">
+<img src="docs/img/osm_logo.png" height="450px">
 
 - [Anleitung OpenStreetMap (OSM) für Feuerwehren](#anleitung-openstreetmap--osm--f-r-feuerwehren)
 - [Was ist OpenStreetMap (OSM)?](#was-ist-openstreetmap--osm--)
@@ -54,7 +54,7 @@ Lies die Nachricht durch und schliesse sie dann, um mehr von der Landkarte zu se
 
 ## Kartenausschnitt ändern
 
-<img src="img/map1.png" height="450px">
+<img src="docs/img/map1.png" height="450px">
 
 Am rechten Seitenrand sind einige dunkelgraue Knöpfe mit weissen Symbolen. Mit diesen kannst du die Zoomstufen regeln. Falls du eine Maus mit Scroll-Rad hast, halte den Mauszeiger über den Bereich der Website mit der Landkarte und drehe das Rad (langsam) nach vorn oder hinten. Natürlich lässt sich der Karten-Ausschnitt auch verschieben, ohne ihn zu vergrössern oder zu verkleinern. Dazu musst du einfach in die Karte klicken, die Maus gedrückt lassen und schieben.
 
@@ -77,7 +77,7 @@ Um die Bedeutung verschiedener Linien-Farben und -Arten auf der Karte zu sehen, 
 
 Um in OSM Daten bearbeiten zu können, braucht es ein Benutzerkonto. Dieses kann man direkt auf der Hauptmaske anlegen. Klicke dazu auf openstreetmap.org auf « **Registrieren** ».
 
-<img src="img/map2.png" height="450px">
+<img src="docs/img/map2.png" height="450px">
 
 Danach musst du deine E-Mail-Adresse, einen Benutzername und ein Passwort vergeben. Vergiss nicht, deine E-Mail-Adresse mit dem versendeten E-Mail zu bestätigen.
 
@@ -93,7 +93,7 @@ Es gibt verschiedene Editoren, mit denen OpenStreetMap bearbeitet werden kann. W
 
 Um den iD-Editor kennenzulernen, solltest du zuerst dessen eingebauten &quot;Rundgang&quot; durcharbeiten. Dazu drückst du auf den &quot;Bearbeiten&quot;-Knopf oben links. Falls dir danach eine Willkommens-Nachricht angezeigt wird, drückst du auf &quot;Rundgang starten&quot;. Andernfalls drückst du auf den «?-Knopf» (auf der rechten Seite) und startest von dort aus den Rundgang.
 
-Knopfsymbol: <img src="img/symbol1.png" height="35px">
+Knopfsymbol: <img src="docs/img/symbol1.png" height="35px">
 
 ## Und los geht's!
 
@@ -108,15 +108,15 @@ Wir üben dies nun für ein Praxisbeispiel der Feuerwehr, die Einpflege eines ne
 Wenn wir einen neuen Hydranten erfassen möchten, starten wir wieder im Bearbeitungsmodus des iD Editors.
  Wir zoomen nun auf die Stelle, an der wir den Hydranten einpflegen möchten. Für einen Hydranten setzen wir einen Punkt.
 
-<img src="img/symbol2.png" height="100px">
+<img src="docs/img/symbol2.png" height="100px">
 
 Setze nun den Punkt auf die exakte Stelle, wo sich der Hydrant befindet. Suche im Suchfeld auf der linken Seite nach Hydrant.
 
-<img src="img/map3.png" height="450px">
+<img src="docs/img/map3.png" height="450px">
 
 Suche im Suchfeld auf der linken Seite nach Hydrant.
 
-<img src="img/map4.png" height="450px">
+<img src="docs/img/map4.png" height="450px">
 
 ## Hydrant mit Daten (Tags) abfüllen
 
@@ -124,7 +124,7 @@ Der Hydrant ist nun virtuell gesetzt. Nun kannst du ihn mit Daten füllen. Diese
 
 Der Editor schlägt dir in diesem Fall folgende Felder vor:
 
-<img src="img/map5.png" height="450px">
+<img src="docs/img/map5.png" height="450px">
 
 - Referenzcode: Nummer des Hydranten
 - Form: Typ des Hydranten (z.B Überflurhydrant)
@@ -136,7 +136,7 @@ Diese Tags schlägt dir der Editor für jeden Hydranten vor. Solltest du die Inf
 
 - Du kannst im Drop-Down prüfen, was dir der Editor sonst noch vorschlägt:
 
-<img src="img/map6.png" height="450px">
+<img src="docs/img/map6.png" height="450px">
 
 - Du kannst auf der [Wiki Seite](#_Wiki_von_OpenStreetMap) dieses Tags nachschauen, was du noch kombinieren kannst: [https://wiki.openstreetmap.org/wiki/DE:Tag:emergency=fire\_hydrant](https://wiki.openstreetmap.org/wiki/DE:Tag:emergency=fire_hydrant)
 
@@ -146,7 +146,7 @@ Um euch die Tags zu veranschaulichen, setzen wir nun im Beispiel unseres Hydrant
 
 Um das Beispiel zu vervollständigen, wurde der Hydrant nun mal mit Beispiel-Daten befüllt:
 
-<img src="img/map7.png" height="450px">
+<img src="docs/img/map7.png" height="450px">
 
 Schauen wir uns die Daten im Detail an:
 
@@ -175,11 +175,11 @@ Wir laden also nun unseren Change Set hoch, dazu müssen wir einen Kommentar und
  Als Änderungskommentar empfiehlt es sich einzutragen, was du gemacht hast. Die Sprache, die du wählst, ist ganz dir überlassen. Sofern du Englisch beherrschst, empfehle ich in dieser Sprache den Kommentar zu hinterlassen, damit ihn auch internationale Mapper verstehen.
  Die Quellen können je nach Änderung variieren. Stelle aber sicher, dass du die [Grundsätze von OSM](#_Grunds%C3%A4tze_von_OSM) einhältst. In deinem Fall wirst du die meiste Zeit «local knowledge» also lokales Wissen angeben können. Einerseits hast du vielleicht Pläne zur Hand oder du kannst dich vor den Hydranten stellen und alle Angaben auch selbst verifizieren.
 
-<img src="img/map8.png" height="450px">
+<img src="docs/img/map8.png" height="450px">
 
 Sobald deine Änderung hochgeladen wurde, erhältst du die Bestätigung und die Änderungsdatensatznummer.
 
-<img src="img/symbol3.png" height="250px">
+<img src="docs/img/symbol3.png" height="250px">
 
 Somit ist deine Bearbeitung beendet und die Daten der Welt zugänglich. Vielen Dank!
 
@@ -192,12 +192,12 @@ Was du nun erfasst, ist ganz dir überlassen. Du kannst alles was einsatzrelevan
 
 **Beispiele für solche Einträge**
 
-<img src="img/map9.png" height="450px">
+<img src="docs/img/map9.png" height="450px">
 
 Der Name der Feuerstelle ist offiziell Schlangenbrunnen, der umgangssprachliche Name ist aber Schlangenbrünneli.
 Wenn dieser umgangssprachlicke Name als loc\_name in OpenStreetMap eingetragen wird, kann die ELZ danach suchen.
 
-<img src="img/map10.png" height="450px">
+<img src="docs/img/map10.png" height="450px">
 
 Die Grillhäuser in Meilen heissen nicht offiziell so, sondern haben richtige Hausadressen. Die meisten Anwohner sprechen aber von der Villa Durchzug, ein Grillplatz der Gemeinde.
 
@@ -212,7 +212,7 @@ Anbei ein paar Beispiele von Feuerwehren, welche bereits etwas in OSM umgesetzt 
 - Evakuierungspunkte
 - Photovoltaikanlagen
 
-<img src="img/map11.png" height="450px">
+<img src="docs/img/map11.png" height="450px">
 
 Weitere Beispiele können gerne direkt besprochen werden. [Melde dich doch bei uns.](#_Kontakt)
 
@@ -220,7 +220,7 @@ Weitere Beispiele können gerne direkt besprochen werden. [Melde dich doch bei u
 
 Die Einsatzleitzentrale hat die Möglichkeit Defibrillatoren auf der Karte anzuzeigen und somit dem Hilfesuchenden direkt den Weg zu einem Defi zu zeigen.
 
-<img src="img/map12.png" height="450px">
+<img src="docs/img/map12.png" height="450px">
 
 Auch hier sind das lokale Wissen und die Vernetzung der Feuerwehr zu lokalen Behörden und Vereinen viel wert. Solltet ihr einen Defi einpflegen wollen, empfiehlt es sich, die folgenden Daten und Tags sauber abzufüllen.
 
@@ -246,7 +246,7 @@ In OSM gibt es grundsätzliche «Regeln», die man zu beachten hat.
 
 - **Ignoriere nicht die Ratschläge anderer Mapper**. Viele Mapper wollen dir, vor allem am Anfang helfen und dir Ratschläge geben. Nimm diese dankend an und stelle Fragen. Sollte ein anderer Mapper aber unanständig werden, ignoriere diesen, das kommt leider manchmal vor.
 - **Betreibe kein Vandalismus**. Die Daten andere Mapper mutwillig zu zerstören gehört nicht in die OSM Welt. Verbessere andere Einträge oder korrigiere sie, wenn sie falsch sind. Löschst du aber einfach Daten, die deiner Meinung nach nicht hingehören, machst du dich schnell unbeliebt. Auch solche Spielereien gehören nicht auf die Karte:
-<img src="img/map13.png" height="450px">
+<img src="docs/img/map13.png" height="450px">
 
 # Wiki von OpenStreetMap
 
@@ -276,7 +276,7 @@ How to map: [https://wiki.openstreetmap.org/wiki/DE:How\_to\_map\_a](https://wik
 
 ## Lizenz
 
-<img src="img/symbol4.png" height="25px">
+<img src="docs/img/symbol4.png" height="25px">
 
 Dieses Werk von Christian Nüssli von OpenBrackets.ch ist lizenziert unter einer [CC0 1.0 Universell (CC0 1.0)Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Somit kann dieses Werk kopiert und unter Nennung des Autors verändert und vervielfältigt werden.
 
